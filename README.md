@@ -1,7 +1,7 @@
 ## DO WHATEVER THE FUCK YOU WANT PUBLIC LICENSE
                     Version 3, Janurary 2023;
 
- Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+ Copyright (C) 2023 Helio Leles <xzz@zaibatsu.tk>
 
  Everyone is permitted to copy and distribute verbatim or modified
  copies of this license document, and changing it is allowed as long
