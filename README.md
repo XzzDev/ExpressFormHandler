@@ -1,7 +1,7 @@
 ## DO WHATEVER THE FUCK YOU WANT PUBLIC LICENSE
                     Version 3, Janurary 2023;
 
- Copyright (C) 2023 Helio Leles <xzz@zaibatsu.tk>
+ Copyright (C) 2023 Helio Leles <<xzz@zaibatsu.tk>>
 
  Everyone is permitted to copy and distribute verbatim or modified
  copies of this license document, and changing it is allowed as long
